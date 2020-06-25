@@ -31,4 +31,4 @@ Then install RLBench via [RLBench](https://github.com/stepjam/RLBench).
 ```python rlbench_reach_td3_eval.py```
 
 # Result
-4 stages (initial model, after 40000-episode trained model, after 80000-episode trained model, fianl model) of training model is selected and the corresponded render result is restored as gif in the folder ```records```.
+4 stages (initial model, after 40000-episode trained model, after 80000-episode trained model, fianl model) of training model are selected and the corresponded render results are recorded in the folder ```records```.
