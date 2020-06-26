@@ -30,7 +30,7 @@ Then install RLBench via [RLBench](https://github.com/stepjam/RLBench).
 
 ```python rlbench_reach_td3_eval.py```
 
-The success rate as shown in the following figure, here every epoch equals to 500 training episodes.
+The success rate as shown in the following figure, here every epoch equals to 200 training episodes.
 ![image](https://github.com/63445538/td3_her_rlbench_reacher/blob/master/RLBench/records/Success%20rate.png)
 
 # Result
