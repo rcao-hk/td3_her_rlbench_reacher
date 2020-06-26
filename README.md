@@ -1,4 +1,6 @@
 # td3_her_rlbench_reacher
+Author: CAO RUI
+
 A implementation for soving reach target task based on Twin Delayed DDPG(TD3) with Hindsight Experience Replay(HER) using PaddlePaddle.
 
 ![image](https://github.com/63445538/td3_her_rlbench_reacher/blob/master/RLBench/records/solved/video_7.gif)
